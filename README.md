@@ -1,0 +1,4 @@
+mdAuthDoctrinePlugin
+====================
+
+For mdUserDoctrine Authentification
